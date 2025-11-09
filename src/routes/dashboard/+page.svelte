@@ -5,10 +5,9 @@
 </script>
 
 <main>
-	<div class="grid grid-cols-2 gap-6 p-4">
+	<div class=" grid grid-cols-2 gap-6 p-4">
 		<Current />
 		<Chart />
 		<Forecast />
 	</div>
 </main>
-<footer></footer>

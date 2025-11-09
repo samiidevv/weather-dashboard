@@ -44,7 +44,7 @@
 
 <div class="rounded-lg bg-[#E1E9EE]">
 	{#if $weather}
-		<div class="flex justify-between p-4">
+		<div class="flex justify-between overflow-hidden p-4">
 			<div class=" flex flex-1/2 flex-col gap-8">
 				<div>
 					<div class="flex w-[50%] gap-2 rounded-4xl bg-[#CDD9E0] p-3">

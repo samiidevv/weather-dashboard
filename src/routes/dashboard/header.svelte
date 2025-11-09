@@ -21,9 +21,9 @@
 </script>
 
 <header>
-	<div class="flex justify-between px-4 py-2 shadow-2xl">
+	<div class="flex h-20 justify-between px-4 py-2 shadow-2xl">
 		<div class="flex items-center gap-2">
-			<img src={WeatherIcon} alt="" class="h-16 w-16 rounded-full" />
+			<img src={WeatherIcon} alt="" class="h-12 w-12 rounded-full" />
 			<h3>{$Name}'s Dashboard</h3>
 		</div>
 		<div class="flex items-center gap-4">
